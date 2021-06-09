@@ -1,3 +1,3 @@
 # hello-world
 Class assignment
-This is a class assignment. Modifying a file to commit and merge. 
+This is a class assignment. Modifying a file to commit and merge. Again to capture commit.
